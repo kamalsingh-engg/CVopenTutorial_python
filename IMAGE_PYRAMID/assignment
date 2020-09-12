@@ -1,0 +1,6 @@
+1. load two image apple and orange
+2.find the gaussian pyramids for apple and orange (number upto 6)
+3. from gaussian pyramids find the laplacian pyramids
+4.now join the left half of apple and right half  of the orange in each level of laplacian pyramids
+5.finally from this joint images pyramids , reconstruct the image
+
